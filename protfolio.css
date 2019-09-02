@@ -1,0 +1,139 @@
+div{
+    color:rgb(7, 2, 49);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+}
+h1{
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+h2{
+    color: gray;
+}
+
+.nav1 {
+    padding: 20px;
+    margin-left: 35px;
+    list-style-type: none;
+}
+
+.contact li {
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.404);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 250%;
+    color: aliceblue;
+    border: 1px solid #ddd;
+    line-height: 50px;
+}
+ h3 {
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    padding: 40px;
+    font-weight: bold;
+    font-size: 40px;
+    border-block-end-style: solid;
+}
+span {
+    color: aqua;
+}
+h4 {
+    font-size: 30px;
+    font: bold;
+}
+p {
+    margin-right: 30%;
+}
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: bold;
+    font-size: 30px;
+    padding: 100px;
+}
+h5 {
+    color: gray;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    padding: 40px;
+}
+h6 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    padding: 40px;
+    font-weight: bold;
+    font-size: 35px;
+    margin-right: 22%;
+}
+.nummber {
+    color: gray;
+}
+.manchet {
+    padding: 18%;
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border-block-end-width: 12em;
+    font-size: 40px;
+    margin-right: 5%;
+}
+progress {
+    color:  aqua;
+}
+div.progess-bar1 {
+    margin-right: 90em;
+    color:black; font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 200%;
+}
+div.progess-bar2 {
+    margin-right: 90em;
+    color:black; 
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 200%;
+    }
+div.progess-bar3 {
+    margin-right: 90em;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 200%;
+    }
+progress{
+    width: 70%;
+    background-color: aqua;
+}
+.conect {
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding-block-start: 30%;
+    margin-left: 33%;
+    display: flex;
+    border-block-end:solid;
+}
+.menu {
+    margin: 20%;
+    background-color: white;
+    margin-left: 35px;
+    text-align: left;
+    color: aqua;
+}
+.pohto {
+    margin-bottom: 15%;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
