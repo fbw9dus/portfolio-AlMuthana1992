@@ -12,10 +12,7 @@
 - Soll ein Link mit href value im format 'mailto:name@provider.com' sein
 ```
 - Link für Telefon, der Telefon-Anwendung öffnet (5/5)
-- Link zum Lebenslauf(PDF), der einen Download auslöst (0/5)
-```diff
-- Der Pfad zur Datei muss im href-Attribut stehen. Das download-Attribut ist vorhanden, es braucht aber keinen Wert.
-```
+- Link zum Lebenslauf(PDF), der einen Download auslöst (5/5)
 - Links zu Social Media Profilen
   - Haben Icons der Dienste (10/10)
   - Sollen in einem neuen Tab öffnen (0/5)
@@ -53,4 +50,4 @@
 - Keine Viewport-Elemente im head (5/5)
 
 ### Punkte
-(**47**/100)
+(**52**/100)
